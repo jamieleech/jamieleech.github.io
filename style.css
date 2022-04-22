@@ -1,0 +1,34 @@
+html {
+	margin: auto;
+	max-width: 720px;
+	height: 100%;
+}
+body {
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	font-size: 1em;
+}
+main {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+a {
+	text-decoration: underline;
+	color: white;
+}
+a:hover {
+	color: #999;
+}
+pre {
+	overflow-x: auto;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+.title {
+	font-size: 3em;
+	margin: 5px;
+}
+.date {
+	color: #555;
+}
